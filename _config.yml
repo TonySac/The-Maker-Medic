@@ -77,25 +77,25 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tony@themakermedic.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/tonysac"
+    - label: "About"
+      icon: "fas fa-user"
+      url: "/about"
 
-# comments:
-#   provider: "giscus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
-#   giscus:
-#     repo_id: "R_kgDOK_ukCA" # Shown during giscus setup at https://giscus.app
-#     category_name: "giscus" # Full text name of the category
-#     category_id: "DIC_kwDOK_ukCM4CcQye" # Shown during giscus setup at https://giscus.app
-#     discussion_term: # "pathname" (default), "url", "title", "og:title"
-#     reactions_enabled: 1 # '1' for enabled (default), '0' for disabled
-#     theme: "dark" # "light" (defau
+comments:
+   provider: "giscus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+   giscus:
+     repo_id: "R_kgDOLge9rA" # Shown during giscus setup at https://giscus.app
+     category_name: "giscus" # Full text name of the category
+     category_id: "DIC_kwDOLge9rM4Cd-tY" # Shown during giscus setup at https://giscus.app
+     discussion_term: # "pathname" (default), "url", "title", "og:title"
+     reactions_enabled: 1 # '1' for enabled (default), '0' for disabled
+     theme: "dark" # "light" (defau
 
 defaults:
   # _posts
