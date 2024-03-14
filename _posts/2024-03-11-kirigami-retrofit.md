@@ -202,8 +202,6 @@ I hope you enjoy the upgrade and happy printing!
 
 In addition to the [Voron](https://docs.vorondesign.com) and [Klipper](https://www.klipper3d.org) documentation, the following references were used during this installation and write up:
 
-* [christophmuellerorg
-/
-voron_0_kirigami_bed](https://github.com/christophmuellerorg/voron_0_kirigami_bed)
+* [christophmuellerorg/voron_0_kirigami_bed](https://github.com/christophmuellerorg/voron_0_kirigami_bed)
 * [LDO Kirigami Installation Guide](https://docs.ldomotors.com/en/voron/voron01/kirigami_guide)
 * [Voron Mod Showcase: Kirigami V0 Bed Frame (Kit by LDO Motors)](https://www.youtube.com/watch?v=eOnNvhircn8)
