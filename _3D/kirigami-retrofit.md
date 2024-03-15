@@ -1,9 +1,6 @@
 ---
 title: "Voron 0.2 Kirigami Retrofit"
 date: 2024-03-11
-categories:
-  - Voron
-  - 3D Printing
 toc: true
 toc_sticky: true  
 ---

@@ -1,7 +1,10 @@
 main:
-  - title: "Posts"
+  - title: "<i class='fas fa-thumbtack'></i>"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "About"
+  - title: "<i class='fas fa-cubes'></i>"
+    url: /3D/
+  - title: "<i class='fab fa-raspberry-pi'></i>"
+    url: /pi/
+  - title: "<i class='fas fa-user'></i>"
     url: /about/
+

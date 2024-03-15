@@ -1,8 +1,6 @@
 ---
 title: "New Year, New TheME!"
 date: 2024-01-01
-categories:
-  - Blog
 ---
 
 Well I guess its that time. For the few, read none, of you that have been following my page, I apologize for the downtime. I am in progress of revamping my site and implementing the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme. Moving forward, I hope to keep things a bit more up to date.

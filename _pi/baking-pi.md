@@ -1,8 +1,6 @@
 ---
 title: Baking a Pi
 last_modified_at: 2024-01-08 
-categories: 
-    - Raspberry Pi
 toc: true
 toc_sticky: true
 --- 

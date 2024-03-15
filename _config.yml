@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: The Maker Medic
-subtitle: A blog following my maker and automation journey
+#subtitle: A blog following my maker and automation journey
 email: tony@themakermedic.com
 description: A blog following my maker and automation journey
 github_username: tonysac
@@ -71,9 +71,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tonysac"
-    - label: "About"
-      icon: "fas fa-user"
-      url: "/about"
+#    - label: "About"
+#      icon: "fas fa-user"
+#      url: "/about"
 
 footer:
   links:
@@ -116,6 +116,36 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _3D
+  - scope:
+      path: ""
+      type: 3D
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pi
+  - scope:
+      path: ""
+      type: pi
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+collections:
+  3D:
+    output: true
+    permalink: /:collection/:path/
+  pi:
+    output: true
+    permalink: /:collection/:path/      
 
 category_archive:
   type: liquid

@@ -1,32 +1,44 @@
 ---
-title: "Welcome"
+title: <small> Welcome to my Maker Space </small>
 sitemap: false
 permalink: /
 layout: splash
 header:
-  overlay_color: "#5e616c"
-  actions:
-    - label: "<i class='fas fa-thumbtack'></i> Recent Posts"
-      url: "/recent/"
-excerpt: >
-  Just another maker trying to make a mark. Follow my projects from Raspberry Pis and home automation to 3D printing and more!<br />
-  <small>Check out my recent entries or some popular categories. </small>
-feature_row:
-  - image_path: /assets/images/pi/pi-collection.png
-    alt: "Bake Pi"
-    title: "Baking a Pi"
-    excerpt: "Learn my process for deploying a fresh Raspberry Pi!"
-    url: "/raspberry%20pi/baking-pi/"
-    btn_class: "btn--primary"
-    btn_label: "Get started"
+  overlay_color: "#333"
+excerpt: <small>Look below for some current projects, tutorials, recent blogs posts, and more!</small>
 
+feature_row:
   - image_path: /assets/images/3D/miniSB.png
     alt: "3D Printing"
     title: "3D Printing"
     excerpt: "Check out my 3D printers and projects!"
-    url: "categories/#3d-printing"
+    url: "/3d/"
     btn_class: "btn--primary"
-    btn_label: "Get printing"    
+    btn_label: "View Collection"  
+    
+  - image_path: /assets/images/3D/eng_3.png
+    alt: "Ender 3 NG"
+    title: "Ender 3 NG Build"
+    excerpt: "Follow my Ender 3 NG build"
+    url: "https://Ender3NG.TheMakerMedic.com"
+    btn_class: "btn--primary"
+    btn_label: "Read More"
+
+  - image_path: /assets/images/pi/pi-collection.png
+    alt: "Bake Pi"
+    title: "Baking a Pi"
+    excerpt: "Learn how I deploy a fresh Raspberry Pi"
+    url: "/pi/baking-pi/"
+    btn_class: "btn--primary"
+    btn_label: "Start Baking"  
+
+  - image_path: /assets/images/admin/blog.png
+    alt: "Blog"
+    title: "Blog Posts"
+    excerpt: "Read up on some recent blog posts"
+    url: "/posts/"
+    btn_class: "btn--primary"
+    btn_label: "Recent Posts"
 ---
 
 {% include feature_row %}
