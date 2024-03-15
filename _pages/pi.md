@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi
+title: Raspberry Pi Collection
 layout: collection
 permalink: /pi/
 collection: pi

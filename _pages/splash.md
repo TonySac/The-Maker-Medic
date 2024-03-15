@@ -12,7 +12,7 @@ feature_row:
     alt: "3D Printing"
     title: "3D Printing"
     excerpt: "Check out my 3D printers and projects!"
-    url: "/3d/"
+    url: "/3D/"
     btn_class: "btn--primary"
     btn_label: "View Collection"  
     
