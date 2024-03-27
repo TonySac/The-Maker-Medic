@@ -39,6 +39,14 @@ feature_row:
     url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Recent Posts"
+
+  - image_path: /assets/images/admin/automation_lab.png
+    alt: "Home Lab"
+    title: "Home Lab & Automation"
+    excerpt: "Documentation on my home lab and automation projects"
+    url: ""
+    btn_class: "btn--primary"
+    btn_label: "Documentation"    
 ---
 
 {% include feature_row %}
