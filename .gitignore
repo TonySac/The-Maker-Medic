@@ -16,6 +16,11 @@ package-lock.json
 
 # IDE configurations
 .idea
+.vscode
+.LSOverride
 
 # Misc
 assets/js/dist
+.DS_Store
+.AppleDouble
+*.bak
