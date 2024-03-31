@@ -1,7 +1,10 @@
 ---
 title: Ender 3 NG Log
-date: 2024-03-28
+date: 2024-03-01
 image: '/3D Printing/assets/eng_3.png'
+toc: false
+comments: false
+pin: true
 ---
 
 <script>

@@ -1,8 +1,10 @@
 ---
 title: Voron 0.2 Klipper Config
-date: 2024-03-28
+date: 2024-02-15
 tags: Voron Klipper
-#image: /assets/img/eng_3.png
+toc: false
+comments: false
+image: /3D%20Printing/assets/miniSB.png
 ---
 
 <script>

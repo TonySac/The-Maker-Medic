@@ -14,7 +14,7 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: The Maker Medic Rebuilt # the main title
+title: The Maker Medic # the main title
 
 tagline: Engineer turned flight medic with a maker hobby # it will display as the sub-title
 

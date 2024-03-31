@@ -1,6 +1,7 @@
 ---
 title: Baking a Raspberry Pi
-date: 2024-01-08
+date: 2024-01-12
+last_modified_at: 2024-03-31
 tags: [Raspberry Pi]
 image: /Raspberry%20Pi/assets/pi-collection.png
 ---

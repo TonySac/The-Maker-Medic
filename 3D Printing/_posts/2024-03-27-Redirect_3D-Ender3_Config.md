@@ -1,7 +1,9 @@
 ---
 title: Ender 3 Neo Klipper Config
-date: 2024-03-28
+date: 2023-12-01
 tags: Klipper
+toc: false
+comments: false
 ---
 
 <script>
