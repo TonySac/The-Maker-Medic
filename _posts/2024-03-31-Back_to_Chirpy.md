@@ -2,7 +2,7 @@
 title: "New Projects"
 date: 2024-03-31
 Category: Blog
-tags: Blog Dev Website
+tags: [Blog, Dev, Website]
 ---
 
 New projects are in the works. Let's start with the first one... continuing to revamp this page. I decided to return to the [Chripy](https://chirpy.cotes.page) theme after using [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/). Now that I have a bit more understanding of Jekyll and GitHub Pages, I think this format makes more sense. I still am working through presentation and all I really know is I'm trying to share some of my projects and keep my notes in a publicly accessible format. 

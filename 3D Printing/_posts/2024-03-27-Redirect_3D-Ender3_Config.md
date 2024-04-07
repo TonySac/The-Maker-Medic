@@ -1,7 +1,7 @@
 ---
 title: Ender 3 Neo Klipper Config
 date: 2023-12-01
-tags: Klipper
+tags: [Klipper, 3D Printing]
 toc: false
 comments: false
 ---
