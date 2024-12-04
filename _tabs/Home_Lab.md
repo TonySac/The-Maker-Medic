@@ -2,9 +2,9 @@
 layout: page
 title: Home Lab Docs
 icon: fa-solid fa-house-signal
-order: 4
+order: 96
 ---
 
 <script>
-  location.href = 'https://homelab.themakermedic.com';    
+  location.href = 'https://homelabdocs.themakermedic.com';    
 </script>

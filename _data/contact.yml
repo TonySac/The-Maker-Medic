@@ -7,6 +7,14 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
+- type: etsy
+  icon: "fab fa-etsy"
+  url: 'https://makermedicmfg.etsy.com'
+
+- type: MMMfg
+  icon: "fas fa-cart-shopping"
+  url: 'https://www.makermedicmfg.com'
+
 - type: rss
   icon: "fas fa-rss"
   noblank: true

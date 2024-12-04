@@ -14,7 +14,7 @@ During my tinkering, I also picked up an Ender 3 Neo and dove into the world of 
 
 Throughout these projects I attempted to document my process. The idea was to have a reference for me to look back on should issues arise and to serve as a reminder on how I solved some of the challenges I encountered.
 
-Moving forward I have decided to sanitize and share that documentation with the world. I'm sure many others out there are undertaking similar tasks. Much of the information presented here was compiled from existing documentation along with my own trial and error. I have done my best to include credit where it is due. However, if you notice your work uncredited please let me know.
+Moving forward I have decided to start a small blog and share some documentation with the world. I'm sure many others out there are undertaking similar tasks. Much of the information presented here was compiled from existing documentation along with my own trial and error. I have done my best to include credit where it is due. However, if you notice your work uncredited please let me know.
 
 >I cannot guarantee the information provided to be 100% free of errors, security risks, or up-to-date. There is always inherent dangers when following the direction of someone on the internet.
 {: .prompt-danger }
