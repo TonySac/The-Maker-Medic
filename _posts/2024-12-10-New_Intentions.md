@@ -5,7 +5,7 @@ categories: [Blog]
 tags: [Blog]
 ---
 
-While working on my [Home Lab Docs]() the other day, I started pondering the purpose of these various websites I've created. I think I came to a conclusion, particuarly as it relates to [TheMakerMedic.com](/).
+While working on my [Home Lab Docs](https://homelabdocs.themakermedic.com) the other day, I started pondering the purpose of these various websites I've created. I think I came to a conclusion, particuarly as it relates to [TheMakerMedic.com](/).
 
 Moving forward, I intend to keep developing breakout docs/logs for my larger projects. Things like [Home Lab Docs](https://homelabdocs.themakermedic.com), [Maker Medic Manufacturing](https://www.makermedicmfg.com), and my old [Ender 3 NG Log](https://e3nglog.themakermedic.com). Where as this page lends itself better as a blog.
 
