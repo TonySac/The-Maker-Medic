@@ -10,7 +10,7 @@ I've been putting this off for awhile but after building out my NAS I decided I 
 
 For better or worse, my home has become reliant on the HomeLab Server so I needed to pick a good time for the overhaul and minimize downtime. This was also a perfect opportunity to put my NAS with its NFS shares and Proxmox backups to the test.
 
-Surprisingly the process went well. Just a quick flash of the latest Proxmox ISO to a USB drive and within about 10 minutes I was booted back into Proxmox and able to log into the network GUI. Once I mounted my NFS share I saw all my old backups and restored the nessicary VMs.
+Surprisingly the process went well. Just a quick flash of the latest Proxmox ISO to a USB drive and within about 10 minutes I was booted back into Proxmox and able to log into the network GUI. Once I mounted my NFS share I saw all my old backups and restored the necessary VMs.
 
 I spent about another hour making sure everything in the Home Assistant VM was working correctly. Sometimes the MQTT stuff acts up on a restore but it just required a reinitialization. 
 
